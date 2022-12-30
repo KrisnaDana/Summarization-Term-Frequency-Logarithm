@@ -1,0 +1,9 @@
+A corpus is a collection of texts that are used to train a natural language processing model. To create a corpus for summarization, you would need to collect a large number of texts that are relevant to the topic or domain you want to summarize. These texts could be articles, news stories, or any other written materials that contain information on the topic you are interested in.
+
+Once you have collected the texts, you would need to pre-process them to clean and format the data. This could involve removing punctuation, stop words, and other irrelevant information from the texts. You could also use stemming or lemmatization to reduce words to their base form, which can help the model better understand the meaning of the words in the corpus.
+
+After pre-processing the texts, you would need to split the corpus into two sets: a training set and a validation set. The training set would be used to train the summarization model, while the validation set would be used to evaluate the performance of the model during training.
+
+Once you have created the corpus and split it into training and validation sets, you would then be ready to use it to train a summarization model. This could be done using a variety of techniques, such as extractive summarization, which involves selecting and concatenating important sentences or phrases from the original texts, or abstractive summarization, which involves generating new sentences that capture the most important information from the original texts.
+
+Overall, creating a corpus for summarization involves collecting a large number of relevant texts, pre-processing the texts to clean and format the data, and splitting the corpus into training and validation sets. With a well-curated corpus, you can then use it to train a summarization model that can accurately summarize a given text.
