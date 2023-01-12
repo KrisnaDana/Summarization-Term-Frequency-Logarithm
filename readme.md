@@ -13,7 +13,7 @@ Source code for my team's project at Natural Language Processing Subject. The pr
 Use git command to install the project.
 
 ```bash
-git clone https://github.com/KrisnaDana/Summarization-Text-Rank.git
+git clone https://github.com/KrisnaDana/Summarization-Term-Frequency-Logarithm.git
 ```
 
 Or download zip file of the project.
