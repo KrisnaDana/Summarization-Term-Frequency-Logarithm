@@ -1,4 +1,3 @@
-from NLP import break_into_token, stop_list, stemming
 from Summary import Summary
 import customtkinter as ctk
 from tkinter import filedialog as fd
